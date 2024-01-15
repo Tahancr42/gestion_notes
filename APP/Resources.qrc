@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Ressourses">
+        <file>Database/Database.db</file>
+        <file>Picture/emsi.png</file>
+        <file>Picture/logo.png</file>
+    </qresource>
+</RCC>
